@@ -4,6 +4,11 @@ Gabriela García - 201912531
 
 Juan Pablo Ramirez - 201921728
 
+## Prerrequisitos
+- Installar Java JRE/JDK
+- Usar servidor UbuntuServer 20.04
+- Usar cliente en cualquier OS
+
 ## Servidor (UbuntuServer 20.04)
 ### Generar archivos de prueba para enviar
 1. Ejecutar comando ```sudo bash ArchivosEnviar/generarArchivos.sh```
