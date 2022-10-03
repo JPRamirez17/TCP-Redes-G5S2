@@ -22,7 +22,7 @@ public class ThreadCliente extends Thread {
     /**
      * Extension de los archivos recibidos
      */
-    private final static String EXT_ARCHIVO = ".pptx";
+    private final static String EXT_ARCHIVO = ".txt";
 
     /**
      * Identificador del cliente

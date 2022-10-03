@@ -17,8 +17,8 @@ public class Servidor {
     /**
      * Archivos disponibles de 100MB y 150MB para transferencia
      */
-    public final static String ARCHIVO_0 = "ArchivosEnviar" + File.separator + "100MB.pptx";
-    public final static String ARCHIVO_1 = "ArchivosEnviar" + File.separator + "250MB.pptx";
+    public final static String ARCHIVO_0 = "ArchivosEnviar" + File.separator + "100MB.txt";
+    public final static String ARCHIVO_1 = "ArchivosEnviar" + File.separator + "250MB.txt";
 
     /**
      * Numero de puerto donde se van a escuchar peticiones

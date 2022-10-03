@@ -26,7 +26,7 @@ public class Cliente {
 
         // Solicita la cantidad de clientes concurrentes para hacer peticiones al servidor
         int clientesConcurrentes = -1;
-        while(clientesConcurrentes == -1) {
+        while(clientesConcurrentes < 1) {
             System.out.println("Escriba la cantidad de clientes concurrentes > 0:");
             try {
                 clientesConcurrentes = Integer.parseInt(stdIn.readLine());
@@ -39,11 +39,11 @@ public class Cliente {
 
         // Solicita el id del archivo a recibir por el servidor
         long idArchivo = -1;
-        while(idArchivo == -1) {
+        while(idArchivo > 1 || idArchivo < 0) {
             mensajeSeleccionArchivo();
             try {
                 idArchivo = Long.parseLong(stdIn.readLine());
-                if(idArchivo != 0 || idArchivo != 1)
+                if(idArchivo > 1 || idArchivo < 0)
                     throw new NumberFormatException();
             } catch (NumberFormatException e) {
                 System.err.println("Escriba un id de archivo de las opciones");
