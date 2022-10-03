@@ -11,7 +11,9 @@ Juan Pablo Ramirez - 201921728
 
 ## Servidor (UbuntuServer 20.04)
 ### Generar archivos de prueba para enviar
-1. Ejecutar comando ```sudo bash ArchivosEnviar/generarArchivos.sh```
+1. Ir al directorio ```ArchivosEnviar/```
+2. Ejecutar comando ```sudo bash generarArchivos.sh```
+3. Volver al directorio raíz ```cd ..```
 
 
 ### Ejecutar servidor
