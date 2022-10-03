@@ -17,7 +17,7 @@ Juan Pablo Ramirez - 201921728
 
 
 ### Ejecutar servidor
-1. Ejecutar comando ```java src/servidor/Servidor.java```
+1. Ejecutar comando ```java -cp src/ src/servidor/Servidor.java```
 3. Para interrumpir escribir comando ```Ctrl+C```
 
 - **Resultados en Logs/servidor/**
@@ -29,7 +29,7 @@ Juan Pablo Ramirez - 201921728
 3. Guardar y salir ```Ctrl+X``` y ```Enter```
 
 ### Ejecutar clientes
-1. Ejecutar comando ```java src/cliente/Cliente.java```
+1. Ejecutar comando ```java -cp src/ src/cliente/Cliente.java```
 3. Ingresar el número de clientes concurrentes
 3. Ingresar id del archivo a recibir
 
