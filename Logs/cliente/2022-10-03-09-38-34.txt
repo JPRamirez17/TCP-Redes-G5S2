@@ -1,0 +1,41 @@
+2022-10-03 09:38:34 - Archivo a transferir: 100MB id 0
+2022-10-03 09:38:34 - Cliente 8 conectado a localhost:3400
+2022-10-03 09:38:34 - Cliente 10 conectado a localhost:3400
+2022-10-03 09:38:34 - Cliente 4 conectado a localhost:3400
+2022-10-03 09:38:34 - Cliente 9 conectado a localhost:3400
+2022-10-03 09:38:34 - Cliente 1 conectado a localhost:3400
+2022-10-03 09:38:34 - Cliente 5 conectado a localhost:3400
+2022-10-03 09:38:34 - Cliente 6 conectado a localhost:3400
+2022-10-03 09:38:34 - Cliente 3 conectado a localhost:3400
+2022-10-03 09:38:34 - Cliente 7 conectado a localhost:3400
+2022-10-03 09:38:34 - Cliente 2 conectado a localhost:3400
+2022-10-03 09:38:34 - Cliente 4 preparado para recibir 104857KB
+2022-10-03 09:38:34 - Cliente 9 preparado para recibir 104857KB
+2022-10-03 09:38:34 - Cliente 1 preparado para recibir 104857KB
+2022-10-03 09:38:34 - Cliente 7 preparado para recibir 104857KB
+2022-10-03 09:38:34 - Cliente 10 preparado para recibir 104857KB
+2022-10-03 09:38:34 - Cliente 5 preparado para recibir 104857KB
+2022-10-03 09:38:34 - Cliente 8 preparado para recibir 104857KB
+2022-10-03 09:38:34 - Cliente 6 preparado para recibir 104857KB
+2022-10-03 09:38:34 - Cliente 2 preparado para recibir 104857KB
+2022-10-03 09:38:34 - Cliente 3 preparado para recibir 104857KB
+2022-10-03 09:38:35 - Cliente 5 tiempo total de transferencia 1538ms
+2022-10-03 09:38:35 - Cliente 5 transferencia completa - transferencia exitosa (hash): true
+2022-10-03 09:38:35 - Cliente 2 tiempo total de transferencia 1598ms
+2022-10-03 09:38:35 - Cliente 2 transferencia completa - transferencia exitosa (hash): true
+2022-10-03 09:38:35 - Cliente 7 tiempo total de transferencia 1613ms
+2022-10-03 09:38:35 - Cliente 7 transferencia completa - transferencia exitosa (hash): true
+2022-10-03 09:38:35 - Cliente 4 tiempo total de transferencia 1702ms
+2022-10-03 09:38:35 - Cliente 4 transferencia completa - transferencia exitosa (hash): true
+2022-10-03 09:38:36 - Cliente 3 tiempo total de transferencia 1716ms
+2022-10-03 09:38:36 - Cliente 3 transferencia completa - transferencia exitosa (hash): true
+2022-10-03 09:38:36 - Cliente 8 tiempo total de transferencia 1729ms
+2022-10-03 09:38:36 - Cliente 8 transferencia completa - transferencia exitosa (hash): true
+2022-10-03 09:38:36 - Cliente 9 tiempo total de transferencia 1743ms
+2022-10-03 09:38:36 - Cliente 9 transferencia completa - transferencia exitosa (hash): true
+2022-10-03 09:38:36 - Cliente 6 tiempo total de transferencia 1751ms
+2022-10-03 09:38:36 - Cliente 6 transferencia completa - transferencia exitosa (hash): true
+2022-10-03 09:38:36 - Cliente 10 tiempo total de transferencia 1759ms
+2022-10-03 09:38:36 - Cliente 10 transferencia completa - transferencia exitosa (hash): true
+2022-10-03 09:38:36 - Cliente 1 tiempo total de transferencia 1771ms
+2022-10-03 09:38:36 - Cliente 1 transferencia completa - transferencia exitosa (hash): true
