@@ -1,0 +1,24 @@
+2022-10-02 22:46:17 - Servidor delegado 1 conectado
+2022-10-02 22:46:17 - Servidor delegado 6 conectado
+2022-10-02 22:46:17 - Servidor delegado 5 conectado
+2022-10-02 22:46:17 - Servidor delegado 4 conectado
+2022-10-02 22:46:17 - Servidor delegado 2 conectado
+2022-10-02 22:46:17 - Servidor delegado 3 conectado
+2022-10-02 22:46:17 - Servidor delegado 6 preparado para enviar ArchivosEnviar/100MB.pptx (92779KB) a Cliente 5
+2022-10-02 22:46:17 - Servidor delegado 3 preparado para enviar ArchivosEnviar/100MB.pptx (92779KB) a Cliente 3
+2022-10-02 22:46:17 - Servidor delegado 4 preparado para enviar ArchivosEnviar/100MB.pptx (92779KB) a Cliente 2
+2022-10-02 22:46:17 - Servidor delegado 5 preparado para enviar ArchivosEnviar/100MB.pptx (92779KB) a Cliente 6
+2022-10-02 22:46:17 - Servidor delegado 2 preparado para enviar ArchivosEnviar/100MB.pptx (92779KB) a Cliente 1
+2022-10-02 22:46:17 - Servidor delegado 1 preparado para enviar ArchivosEnviar/100MB.pptx (92779KB) a Cliente 4
+2022-10-02 22:46:21 - Servidor delegado 6 tiempo total de transferencia 3674ms a Cliente 5
+2022-10-02 22:46:21 - Servidor delegado 4 tiempo total de transferencia 3675ms a Cliente 2
+2022-10-02 22:46:21 - Servidor delegado 3 tiempo total de transferencia 3675ms a Cliente 3
+2022-10-02 22:46:21 - Servidor delegado 6 transferencia completa - transferencia exitosa (hash): true a Cliente 5
+2022-10-02 22:46:21 - Servidor delegado 5 tiempo total de transferencia 3677ms a Cliente 6
+2022-10-02 22:46:21 - Servidor delegado 1 tiempo total de transferencia 3674ms a Cliente 4
+2022-10-02 22:46:21 - Servidor delegado 2 tiempo total de transferencia 3675ms a Cliente 1
+2022-10-02 22:46:21 - Servidor delegado 1 transferencia completa - transferencia exitosa (hash): true a Cliente 4
+2022-10-02 22:46:21 - Servidor delegado 3 transferencia completa - transferencia exitosa (hash): true a Cliente 3
+2022-10-02 22:46:21 - Servidor delegado 5 transferencia completa - transferencia exitosa (hash): true a Cliente 6
+2022-10-02 22:46:21 - Servidor delegado 4 transferencia completa - transferencia exitosa (hash): true a Cliente 2
+2022-10-02 22:46:21 - Servidor delegado 2 transferencia completa - transferencia exitosa (hash): true a Cliente 1

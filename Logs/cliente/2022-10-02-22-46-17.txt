@@ -1,0 +1,25 @@
+2022-10-02 22:46:17 - Archivo a transferir: 100MB id 0
+2022-10-02 22:46:17 - Cliente 4 conectado a localhost:3400
+2022-10-02 22:46:17 - Cliente 5 conectado a localhost:3400
+2022-10-02 22:46:17 - Cliente 3 conectado a localhost:3400
+2022-10-02 22:46:17 - Cliente 2 conectado a localhost:3400
+2022-10-02 22:46:17 - Cliente 6 conectado a localhost:3400
+2022-10-02 22:46:17 - Cliente 1 conectado a localhost:3400
+2022-10-02 22:46:17 - Cliente 5 preparado para recibir 92779KB
+2022-10-02 22:46:17 - Cliente 6 preparado para recibir 92779KB
+2022-10-02 22:46:17 - Cliente 3 preparado para recibir 92779KB
+2022-10-02 22:46:17 - Cliente 1 preparado para recibir 92779KB
+2022-10-02 22:46:17 - Cliente 4 preparado para recibir 92779KB
+2022-10-02 22:46:17 - Cliente 2 preparado para recibir 92779KB
+2022-10-02 22:46:21 - Cliente 5 tiempo total de transferencia 3675ms
+2022-10-02 22:46:21 - Cliente 5 transferencia completa - transferencia exitosa (hash): true
+2022-10-02 22:46:21 - Cliente 2 tiempo total de transferencia 3675ms
+2022-10-02 22:46:21 - Cliente 2 transferencia completa - transferencia exitosa (hash): true
+2022-10-02 22:46:21 - Cliente 4 tiempo total de transferencia 3675ms
+2022-10-02 22:46:21 - Cliente 6 tiempo total de transferencia 3677ms
+2022-10-02 22:46:21 - Cliente 3 tiempo total de transferencia 3676ms
+2022-10-02 22:46:21 - Cliente 1 tiempo total de transferencia 3675ms
+2022-10-02 22:46:21 - Cliente 4 transferencia completa - transferencia exitosa (hash): true
+2022-10-02 22:46:21 - Cliente 3 transferencia completa - transferencia exitosa (hash): true
+2022-10-02 22:46:21 - Cliente 6 transferencia completa - transferencia exitosa (hash): true
+2022-10-02 22:46:21 - Cliente 1 transferencia completa - transferencia exitosa (hash): true
