@@ -1,0 +1,4 @@
+2022-10-03 09:31:10 - Servidor delegado 2 conectado
+2022-10-03 09:31:10 - Servidor delegado 2 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 1
+2022-10-03 09:31:11 - Servidor delegado 2 tiempo total de transferencia 1210ms a Cliente 1
+2022-10-03 09:31:11 - Servidor delegado 2 transferencia completa - transferencia exitosa (hash): true a Cliente 1

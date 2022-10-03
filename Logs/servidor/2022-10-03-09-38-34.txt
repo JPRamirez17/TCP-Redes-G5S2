@@ -1,0 +1,40 @@
+2022-10-03 09:38:34 - Servidor delegado 7 conectado
+2022-10-03 09:38:34 - Servidor delegado 9 conectado
+2022-10-03 09:38:34 - Servidor delegado 8 conectado
+2022-10-03 09:38:34 - Servidor delegado 10 conectado
+2022-10-03 09:38:34 - Servidor delegado 11 conectado
+2022-10-03 09:38:34 - Servidor delegado 12 conectado
+2022-10-03 09:38:34 - Servidor delegado 13 conectado
+2022-10-03 09:38:34 - Servidor delegado 14 conectado
+2022-10-03 09:38:34 - Servidor delegado 15 conectado
+2022-10-03 09:38:34 - Servidor delegado 16 conectado
+2022-10-03 09:38:34 - Servidor delegado 15 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente 4
+2022-10-03 09:38:34 - Servidor delegado 16 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente 6
+2022-10-03 09:38:34 - Servidor delegado 7 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente 7
+2022-10-03 09:38:34 - Servidor delegado 13 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente 2
+2022-10-03 09:38:34 - Servidor delegado 9 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente 8
+2022-10-03 09:38:34 - Servidor delegado 14 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente 5
+2022-10-03 09:38:34 - Servidor delegado 8 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente 3
+2022-10-03 09:38:34 - Servidor delegado 11 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente 10
+2022-10-03 09:38:34 - Servidor delegado 12 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente 1
+2022-10-03 09:38:34 - Servidor delegado 10 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente 9
+2022-10-03 09:38:35 - Servidor delegado 14 tiempo total de transferencia 1538ms a Cliente 5
+2022-10-03 09:38:35 - Servidor delegado 14 transferencia completa - transferencia exitosa (hash): true a Cliente 5
+2022-10-03 09:38:35 - Servidor delegado 12 tiempo total de transferencia 1551ms a Cliente 1
+2022-10-03 09:38:35 - Servidor delegado 7 tiempo total de transferencia 1606ms a Cliente 7
+2022-10-03 09:38:35 - Servidor delegado 13 tiempo total de transferencia 1608ms a Cliente 2
+2022-10-03 09:38:35 - Servidor delegado 13 transferencia completa - transferencia exitosa (hash): true a Cliente 2
+2022-10-03 09:38:35 - Servidor delegado 7 transferencia completa - transferencia exitosa (hash): true a Cliente 7
+2022-10-03 09:38:35 - Servidor delegado 15 tiempo total de transferencia 1688ms a Cliente 4
+2022-10-03 09:38:35 - Servidor delegado 15 transferencia completa - transferencia exitosa (hash): true a Cliente 4
+2022-10-03 09:38:36 - Servidor delegado 8 tiempo total de transferencia 1715ms a Cliente 3
+2022-10-03 09:38:36 - Servidor delegado 8 transferencia completa - transferencia exitosa (hash): true a Cliente 3
+2022-10-03 09:38:36 - Servidor delegado 9 tiempo total de transferencia 1728ms a Cliente 8
+2022-10-03 09:38:36 - Servidor delegado 9 transferencia completa - transferencia exitosa (hash): true a Cliente 8
+2022-10-03 09:38:36 - Servidor delegado 10 tiempo total de transferencia 1733ms a Cliente 9
+2022-10-03 09:38:36 - Servidor delegado 10 transferencia completa - transferencia exitosa (hash): true a Cliente 9
+2022-10-03 09:38:36 - Servidor delegado 16 tiempo total de transferencia 1748ms a Cliente 6
+2022-10-03 09:38:36 - Servidor delegado 16 transferencia completa - transferencia exitosa (hash): true a Cliente 6
+2022-10-03 09:38:36 - Servidor delegado 11 tiempo total de transferencia 1756ms a Cliente 10
+2022-10-03 09:38:36 - Servidor delegado 11 transferencia completa - transferencia exitosa (hash): true a Cliente 10
+2022-10-03 09:38:36 - Servidor delegado 12 transferencia completa - transferencia exitosa (hash): true a Cliente 1

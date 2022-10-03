@@ -1,0 +1,100 @@
+2022-10-03 09:39:40 - Servidor delegado 17 conectado
+2022-10-03 09:39:40 - Servidor delegado 18 conectado
+2022-10-03 09:39:40 - Servidor delegado 19 conectado
+2022-10-03 09:39:40 - Servidor delegado 20 conectado
+2022-10-03 09:39:40 - Servidor delegado 21 conectado
+2022-10-03 09:39:40 - Servidor delegado 22 conectado
+2022-10-03 09:39:40 - Servidor delegado 23 conectado
+2022-10-03 09:39:40 - Servidor delegado 24 conectado
+2022-10-03 09:39:40 - Servidor delegado 25 conectado
+2022-10-03 09:39:40 - Servidor delegado 26 conectado
+2022-10-03 09:39:40 - Servidor delegado 27 conectado
+2022-10-03 09:39:40 - Servidor delegado 28 conectado
+2022-10-03 09:39:40 - Servidor delegado 29 conectado
+2022-10-03 09:39:40 - Servidor delegado 30 conectado
+2022-10-03 09:39:40 - Servidor delegado 31 conectado
+2022-10-03 09:39:40 - Servidor delegado 33 conectado
+2022-10-03 09:39:40 - Servidor delegado 34 conectado
+2022-10-03 09:39:40 - Servidor delegado 32 conectado
+2022-10-03 09:39:40 - Servidor delegado 35 conectado
+2022-10-03 09:39:40 - Servidor delegado 36 conectado
+2022-10-03 09:39:40 - Servidor delegado 37 conectado
+2022-10-03 09:39:40 - Servidor delegado 38 conectado
+2022-10-03 09:39:40 - Servidor delegado 39 conectado
+2022-10-03 09:39:40 - Servidor delegado 40 conectado
+2022-10-03 09:39:40 - Servidor delegado 41 conectado
+2022-10-03 09:39:40 - Servidor delegado 39 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 17
+2022-10-03 09:39:40 - Servidor delegado 25 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 4
+2022-10-03 09:39:40 - Servidor delegado 21 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 14
+2022-10-03 09:39:40 - Servidor delegado 26 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 22
+2022-10-03 09:39:40 - Servidor delegado 27 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 15
+2022-10-03 09:39:40 - Servidor delegado 24 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 11
+2022-10-03 09:39:40 - Servidor delegado 17 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 12
+2022-10-03 09:39:40 - Servidor delegado 23 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 25
+2022-10-03 09:39:40 - Servidor delegado 30 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 7
+2022-10-03 09:39:40 - Servidor delegado 40 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 10
+2022-10-03 09:39:40 - Servidor delegado 22 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 19
+2022-10-03 09:39:40 - Servidor delegado 37 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 8
+2022-10-03 09:39:40 - Servidor delegado 35 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 9
+2022-10-03 09:39:40 - Servidor delegado 38 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 2
+2022-10-03 09:39:40 - Servidor delegado 19 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 24
+2022-10-03 09:39:40 - Servidor delegado 18 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 21
+2022-10-03 09:39:40 - Servidor delegado 32 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 23
+2022-10-03 09:39:40 - Servidor delegado 28 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 20
+2022-10-03 09:39:40 - Servidor delegado 34 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 3
+2022-10-03 09:39:40 - Servidor delegado 33 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 18
+2022-10-03 09:39:40 - Servidor delegado 31 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 16
+2022-10-03 09:39:40 - Servidor delegado 20 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 1
+2022-10-03 09:39:40 - Servidor delegado 29 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 13
+2022-10-03 09:39:41 - Servidor delegado 41 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 5
+2022-10-03 09:39:41 - Servidor delegado 36 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente 6
+2022-10-03 09:39:52 - Servidor delegado 33 tiempo total de transferencia 11381ms a Cliente 18
+2022-10-03 09:39:52 - Servidor delegado 25 tiempo total de transferencia 11439ms a Cliente 4
+2022-10-03 09:39:52 - Servidor delegado 36 tiempo total de transferencia 11322ms a Cliente 6
+2022-10-03 09:39:52 - Servidor delegado 40 tiempo total de transferencia 11432ms a Cliente 10
+2022-10-03 09:39:52 - Servidor delegado 22 tiempo total de transferencia 11432ms a Cliente 19
+2022-10-03 09:39:52 - Servidor delegado 31 tiempo total de transferencia 11365ms a Cliente 16
+2022-10-03 09:39:52 - Servidor delegado 34 tiempo total de transferencia 11393ms a Cliente 3
+2022-10-03 09:39:52 - Servidor delegado 26 tiempo total de transferencia 11437ms a Cliente 22
+2022-10-03 09:39:52 - Servidor delegado 38 tiempo total de transferencia 11408ms a Cliente 2
+2022-10-03 09:39:52 - Servidor delegado 29 tiempo total de transferencia 11334ms a Cliente 13
+2022-10-03 09:39:52 - Servidor delegado 41 tiempo total de transferencia 11333ms a Cliente 5
+2022-10-03 09:39:52 - Servidor delegado 20 tiempo total de transferencia 11351ms a Cliente 1
+2022-10-03 09:39:52 - Servidor delegado 18 tiempo total de transferencia 11403ms a Cliente 21
+2022-10-03 09:39:52 - Servidor delegado 18 transferencia completa - transferencia exitosa (hash): true a Cliente 21
+2022-10-03 09:39:52 - Servidor delegado 30 tiempo total de transferencia 11432ms a Cliente 7
+2022-10-03 09:39:52 - Servidor delegado 37 tiempo total de transferencia 11410ms a Cliente 8
+2022-10-03 09:39:52 - Servidor delegado 39 tiempo total de transferencia 11439ms a Cliente 17
+2022-10-03 09:39:52 - Servidor delegado 21 tiempo total de transferencia 11438ms a Cliente 14
+2022-10-03 09:39:52 - Servidor delegado 21 transferencia completa - transferencia exitosa (hash): true a Cliente 14
+2022-10-03 09:39:52 - Servidor delegado 27 tiempo total de transferencia 11438ms a Cliente 15
+2022-10-03 09:39:52 - Servidor delegado 17 tiempo total de transferencia 11436ms a Cliente 12
+2022-10-03 09:39:52 - Servidor delegado 28 tiempo total de transferencia 11396ms a Cliente 20
+2022-10-03 09:39:52 - Servidor delegado 35 tiempo total de transferencia 11409ms a Cliente 9
+2022-10-03 09:39:52 - Servidor delegado 23 tiempo total de transferencia 11432ms a Cliente 25
+2022-10-03 09:39:52 - Servidor delegado 32 tiempo total de transferencia 11400ms a Cliente 23
+2022-10-03 09:39:52 - Servidor delegado 24 tiempo total de transferencia 11436ms a Cliente 11
+2022-10-03 09:39:52 - Servidor delegado 19 tiempo total de transferencia 11406ms a Cliente 24
+2022-10-03 09:39:52 - Servidor delegado 24 transferencia completa - transferencia exitosa (hash): true a Cliente 11
+2022-10-03 09:39:52 - Servidor delegado 23 transferencia completa - transferencia exitosa (hash): true a Cliente 25
+2022-10-03 09:39:52 - Servidor delegado 26 transferencia completa - transferencia exitosa (hash): true a Cliente 22
+2022-10-03 09:39:52 - Servidor delegado 41 transferencia completa - transferencia exitosa (hash): true a Cliente 5
+2022-10-03 09:39:52 - Servidor delegado 38 transferencia completa - transferencia exitosa (hash): true a Cliente 2
+2022-10-03 09:39:52 - Servidor delegado 29 transferencia completa - transferencia exitosa (hash): true a Cliente 13
+2022-10-03 09:39:52 - Servidor delegado 34 transferencia completa - transferencia exitosa (hash): true a Cliente 3
+2022-10-03 09:39:52 - Servidor delegado 40 transferencia completa - transferencia exitosa (hash): true a Cliente 10
+2022-10-03 09:39:52 - Servidor delegado 39 transferencia completa - transferencia exitosa (hash): true a Cliente 17
+2022-10-03 09:39:52 - Servidor delegado 27 transferencia completa - transferencia exitosa (hash): true a Cliente 15
+2022-10-03 09:39:52 - Servidor delegado 35 transferencia completa - transferencia exitosa (hash): true a Cliente 9
+2022-10-03 09:39:52 - Servidor delegado 36 transferencia completa - transferencia exitosa (hash): true a Cliente 6
+2022-10-03 09:39:52 - Servidor delegado 32 transferencia completa - transferencia exitosa (hash): true a Cliente 23
+2022-10-03 09:39:52 - Servidor delegado 22 transferencia completa - transferencia exitosa (hash): true a Cliente 19
+2022-10-03 09:39:52 - Servidor delegado 31 transferencia completa - transferencia exitosa (hash): true a Cliente 16
+2022-10-03 09:39:52 - Servidor delegado 37 transferencia completa - transferencia exitosa (hash): true a Cliente 8
+2022-10-03 09:39:52 - Servidor delegado 19 transferencia completa - transferencia exitosa (hash): true a Cliente 24
+2022-10-03 09:39:52 - Servidor delegado 17 transferencia completa - transferencia exitosa (hash): true a Cliente 12
+2022-10-03 09:39:52 - Servidor delegado 25 transferencia completa - transferencia exitosa (hash): true a Cliente 4
+2022-10-03 09:39:52 - Servidor delegado 28 transferencia completa - transferencia exitosa (hash): true a Cliente 20
+2022-10-03 09:39:52 - Servidor delegado 20 transferencia completa - transferencia exitosa (hash): true a Cliente 1
+2022-10-03 09:39:52 - Servidor delegado 30 transferencia completa - transferencia exitosa (hash): true a Cliente 7
+2022-10-03 09:39:52 - Servidor delegado 33 transferencia completa - transferencia exitosa (hash): true a Cliente 18
